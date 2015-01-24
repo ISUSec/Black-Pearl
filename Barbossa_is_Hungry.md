@@ -4,6 +4,9 @@ A two-stage challenge using flags to reward intelligence and false flags (and
 
 False flags are worth negative points (can we do this?).
 
+One option to add an additional stage would be do something like base64 encode
+the script so it isn't immediately obvious what's going to happen.
+
 NOTE: These are general thoughts and I haven't actually investigated feasibility
 
 ### Stage 1
