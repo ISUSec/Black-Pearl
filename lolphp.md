@@ -1,0 +1,1 @@
+[This](http://dutchernet.andrewdutcher.com:455/crap/crap.php) is a local version of a challenge from the 31c3 ctf.  It involved abusing php's weird syntax and equality rules to get a flag.  I think we should do something like that with either php or javascript.  @DanH42, this is your kind of thing.
