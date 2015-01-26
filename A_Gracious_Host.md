@@ -1,4 +1,4 @@
-The folks over at [hamclock.net](https://hamclock.net) have decided to go into government work, and are in the process of setting up a new Top Secret site at *hamclock.gov*. The domain doesn't exist in DNS yet, but it is your job to access their server and find anything interesting on their site before they start locking it down.
+The folks over at [hamclock.net](https://hamclock.net) have decided to go into government work, and are in the process of setting up a new Top Secret site at **hamclock.gov**. The domain doesn't exist in DNS yet, but it is your job to access their server anyway and find anything interesting on their site before they start locking it down.
 
 Hints: `host`, /etc/hosts
 
