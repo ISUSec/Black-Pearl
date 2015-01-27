@@ -1,0 +1,3 @@
+In img/screenshot.png there is a ciphertext and enough extraneous information to trace the page back to cryptool online, specifically the "Inproved English Freemason cipher".
+
+Flag: AYESSYOOCEC
