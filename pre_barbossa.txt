@@ -1,0 +1,9 @@
+echo "Your flag is: Ihatethatmonkey"
+echo "Deleting everything on the hard drive in..."
+echo "You shouldn't execute random scripts from the internet using invalid certificates"
+for num in {10..1}
+do
+        echo $num
+        sleep 1
+done
+ls -lahR /
