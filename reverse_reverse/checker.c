@@ -6,16 +6,16 @@ int main(void)
   char guess[10];
   int  result;
 
-  puts ("enter the password");
-  fgets (guess, 10, stdin);
+  puts("enter the password");
+  fgets(guess, 10, stdin);
 
-  if (strncmp(guess, "WEATHERMAN",9) == 0)
+  if (strncmp (guess, "WEATHERMAN", 9) == 0)
   {
-    puts ("the flag");
+    puts("the flag");
   }
   else
   {
-    puts ("nope, try again");
+    puts("nope, try again");
   }
 
   return 0;
