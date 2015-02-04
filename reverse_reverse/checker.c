@@ -11,7 +11,7 @@ int main(void)
 
   if (strncmp (guess, "WEATHERMAN", 9) == 0)
   {
-    puts("the flag");
+    puts("yup, that's the flag");
   }
   else
   {
